@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/SplashPage",
+    "pages/LoginPage"
+  ],
+  "window": {
+    "designWidth": 750,
+    "autoDesignWidth": true
+  }
+}

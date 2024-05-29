@@ -1,0 +1,124 @@
+{
+  "float": [
+    {
+      "name": "tabs_icon_size",
+      "value": "36vp"
+    },
+    {
+      "name": "tabs_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "splash_logo_size",
+      "value": "100vp"
+    },
+    {
+      "name": "splash_logo_margin_top",
+      "value": "90vp"
+    },
+    {
+      "name": "splash_text_margin_top",
+      "value": "80vp"
+    },
+    {
+      "name": "splash_text_padding_top",
+      "value": "15vp"
+    },
+    {
+      "name": "splash_text_padding_left",
+      "value": "12vp"
+    },
+    {
+      "name": "splash_text_padding_right",
+      "value": "12vp"
+    },
+    {
+      "name": "splash_text_padding_bottom",
+      "value": "30vp"
+    },
+    {
+      "name": "splash_text_border_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "splash_text_title_margin_bottom",
+      "value": "18vp"
+    },
+    {
+      "name": "splash_text_title_size",
+      "value": "20vp"
+    },
+    {
+      "name": "splash_text_main_size",
+      "value": "15vp"
+    },
+    {
+      "name": "splash_text_sub_size",
+      "value": "13vp"
+    },
+    {
+      "name": "splash_button_margin_top",
+      "value": "50vp"
+    },
+    {
+      "name": "splash_button_width",
+      "value": "150vp"
+    },
+    {
+      "name": "splash_button_height",
+      "value": "45vp"
+    },
+    {
+      "name": "splash_button_border",
+      "value": "1vp"
+    },
+    {
+      "name": "splash_button_radius",
+      "value": "5vp"
+    },
+    {
+      "name": "splash_button_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "login_info_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "login_info_margin",
+      "value": "60vp"
+    },
+    {
+      "name": "login_back_font_size",
+      "value": "30vp"
+    },
+    {
+      "name": "login_info_font_size",
+      "value": "18vp"
+    },
+    {
+      "name": "login_normal_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "login_form_margin_top",
+      "value": "120vp"
+    },
+    {
+      "name": "login_title_font_size",
+      "value": "24vp"
+    },
+    {
+      "name": "login_input_height",
+      "value": "45vp"
+    },
+    {
+      "name": "input_margin_top",
+      "value": "10vp"
+    },
+    {
+      "name": "login_form_title_bottom_margin",
+      "value": "15vp"
+    }
+  ]
+}

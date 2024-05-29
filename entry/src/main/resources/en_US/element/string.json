@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Mobile signal crowdfunding"
+    },
+    {
+      "name": "bottom_tab_text_index",
+      "value": "Index"
+    },
+    {
+      "name": "bottom_tab_text_speed",
+      "value": "Speed"
+    },
+    {
+      "name": "bottom_tab_text_history",
+      "value": "History"
+    },
+    {
+      "name": "splash_text_welcome",
+      "value": "welcome use"
+    },
+    {
+      "name": "splash_text_welcome_main",
+      "value": "welcome use"
+    },
+    {
+      "name": "splash_text_welcome_sub",
+      "value": "手机信号众筹APP非常重视隐私保护，您的数据將只用来在您手机内展示，手机信号众筹APP不会主动存储或传播任何隐私肉容。"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "splash_confirm",
+      "value": "continue"
+    }
+  ]
+}

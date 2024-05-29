@@ -1,0 +1,50 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\谢永强\\.ohos\\config\\default_mobile-signal-crowdfunding_Melcns3u5vCcKKMsG7BGIwG2yeQ3jbFsf2X_Jjs9qrg=.cer",
+          "storePassword": "0000001B895A09C9B4078D710A45670175591A5048D0A963F60722EBD2A106BC4D1B7760D1557C2D2EA67C",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BEC4004DEE70DAB9F060E18B31B7ADD7463DDB8117FA8FFCAEBBFA6B9A9C03DFDDFFD742541B17D",
+          "profile": "C:\\Users\\谢永强\\.ohos\\config\\default_mobile-signal-crowdfunding_Melcns3u5vCcKKMsG7BGIwG2yeQ3jbFsf2X_Jjs9qrg=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\谢永强\\.ohos\\config\\default_mobile-signal-crowdfunding_Melcns3u5vCcKKMsG7BGIwG2yeQ3jbFsf2X_Jjs9qrg=.p12"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": "4.1.0(11)",
+        "compatibleSdkVersion": "4.1.0(11)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

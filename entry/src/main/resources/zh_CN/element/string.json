@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "手机信号众筹"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "手机信号众筹"
+    },
+    {
+      "name": "bottom_tab_text_index",
+      "value": "首页"
+    },
+    {
+      "name": "bottom_tab_text_speed",
+      "value": "测速"
+    },
+    {
+      "name": "bottom_tab_text_history",
+      "value": "历史"
+    },
+    {
+      "name": "splash_text_welcome",
+      "value": "欢迎使用"
+    },
+    {
+      "name": "splash_text_welcome_main",
+      "value": "移动网络信息、GPS信息是目前手机进行混合定位的基础数据，如果app未被授权后台获取位置信息，系统会拒绝向app提供相关数据，所以在第一次使用前手机信号众筹APP将需要您进行以下设置：\n1、授权获取本机号码、IMEI、IMSI\n2、授权定位权限以便获取无线信号参数\n3、打开GPS（高精确度定位模式）"
+    },
+    {
+      "name": "splash_text_welcome_sub",
+      "value": "手机信号众筹APP非常重视隐私保护，您的数据將只用来在您手机内展示，手机信号众筹APP不会主动存储或传播任何隐私肉容。"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "splash_confirm",
+      "value": "同意并继续"
+    }
+  ]
+}
